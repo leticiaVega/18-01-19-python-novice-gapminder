@@ -54,7 +54,7 @@ keypoints:
     ~~~
     {: .python}
 
-*   This will start a Jupyter Notebook server and open your default web browser. 
+*   This will start python program. 
 *   The server runs locally on your machine only and does not use an internet connection.
 *   The server sends messages to your browser.
 *   The server does the work and the web browser renders the notebook.
