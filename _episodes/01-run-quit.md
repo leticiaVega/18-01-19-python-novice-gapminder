@@ -17,8 +17,7 @@ keypoints:
 - "Markdown does most of what HTML does."
 ---
 ## History
-*   Python was created in the early 1990s by Guido van Rossum at Stichting Mathematisch Centrum 
-*   (CWI, see https://www.cwi.nl/) in the Netherlands as a successor of a language called ABC.
+Python was created in the early 1990s by Guido van Rossum at Stichting Mathematisch Centrum  (CWI, see https://www.cwi.nl/) in the Netherlands as a successor of a language called ABC.
 
 ## Python programs are plain text files.
 
