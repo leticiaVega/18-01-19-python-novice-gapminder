@@ -54,19 +54,14 @@ keypoints:
     ~~~
     {: .python}
 
-*   This will start python program. 
-*   The server runs locally on your machine only and does not use an internet connection.
-*   The server sends messages to your browser.
-*   The server does the work and the web browser renders the notebook.
-*   You can type code into the browser and see the result when the web page talks to the server.
-*   This has several advantages:
-    *   You can easily type, edit, and copy and paste blocks of code.
-    *   Tab complete allows you to easily access the names of things you are using
-        and learn more about them.
-    *   It allows you to annotate your code with links, different sized text, bullets, etc.
-        to make it more accessible to you and your collaborators.
-    *   It allows you to display figures next to the code that produces them
-        to tell a complete story of the analysis.
+*   After Python opens, it will show you some contextual information similar to this:
+    ~~~
+    Python 3.6.3 |Anaconda custom (x86_64)| (default, Oct 27 2017, 12:14:30) 
+    [GCC 4.2.1 Compatible Clang 4.0.1 (tags/RELEASE_401/final)] on darwin
+    Type "help", "copyright", "credits" or "license" for more information.
+    >>>
+    ~~~
+    {: .python}
 
 ![Example Jupyter Notebook](../fig/0_jupyter_notebook_example.jpg)  
 *Screenshot of a [Jupyter Notebook on quantum mechanics](https://github.com/jrjohansson/qutip-lectures) by Robert Johansson*
