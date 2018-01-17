@@ -32,7 +32,7 @@ swc_pages: "https://swcarpentry.github.io"
 template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
 example_site: "https://swcarpentry.github.com/lesson-example"
-workshop_repo: "https://github.com/swcarpentry/workshop-template"
+workshop_repo: "https://github.com/leticiavega/18-01-19-python-novice-gapminder"
 workshop_site: "https://leticiavega.github.io/18-01-19-python-novice-gapminder"
 training_site: "https://swcarpentry.github.io/instructor-training"
 
