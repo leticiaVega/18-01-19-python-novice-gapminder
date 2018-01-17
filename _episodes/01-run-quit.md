@@ -16,6 +16,10 @@ keypoints:
 - "The Notebook will turn Markdown into pretty-printed documentation."
 - "Markdown does most of what HTML does."
 ---
+## History
+*   Python was created in the early 1990s by Guido van Rossum at Stichting Mathematisch Centrum 
+*   (CWI, see https://www.cwi.nl/) in the Netherlands as a successor of a language called ABC.
+
 ## Python programs are plain text files.
 
 *   They have the `.py` extension to let everyone (including the operating system) 
