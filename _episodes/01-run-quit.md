@@ -39,9 +39,10 @@ keypoints:
     *   This is convention, not a requirement.
 *   It's common to write them using a text or code editor.
 *   There are many around, and it is one of the most personal choices a programmer can make - Like a tennis-player choosing their racket. To start off with, you’ll just want a basic, easy-to-use one that doesn’t get in your way, but is still effective at writing python code. Here are some suggestions for those:
+
     *   [Gedit][geditEditor] and [Kate][kateEditor]: if you run Linux using Gnome or KDE respectively, you might already have one of these two installed!
     *   [Atom][atomEditor]: A new code editor available for Windows, Mac and Linux. It’s an open-source project developed by GitHub and is very easy to add functionality for, with its packages system.
-    *   [Sublime Text][sublimeEitor]: A great all around editor that’s easy to use. It’s Ctl+B shortcut lets you run the python file you’re working on straight away. Runs on Windows, Mac and Linux.
+    *   [Sublime Text][sublimeEditor]: A great all around editor that’s easy to use. It’s Ctl+B shortcut lets you run the python file you’re working on straight away. Runs on Windows, Mac and Linux.
     *   [NotePad++][notepadEditor]: A free source code editor and Notepad replacement that supports several languages. Running in the MS Windows environment, its use is governed by GPL License.
 
 ## Start python
@@ -379,7 +380,7 @@ Or use [named links][data_carpentry].
 [CWI]: https://www.cwi.nl/
 [python]: https://www.python.org
 [pythonDownload]: https://www.python.org/downloads/
-[atomEitor]: https://atom.io
+[atomEditor]: https://atom.io
 [sublimeEditor]: http://www.sublimetext.com
 [geditEditor]: https://wiki.gnome.org/Apps/Gedit
 [kateEditor]: https://kate-editor.org
