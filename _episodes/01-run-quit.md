@@ -3,11 +3,11 @@ title: "Running and Quitting"
 teaching: 15
 exercises: 0
 questions:
-- "How can I run Python programs?"
+- "How can I run python programs?"
 objectives:
-- "Launch the Jupyter Notebook, create new notebooks, and exit the Notebook."
-- "Create Markdown cells in a notebook."
-- "Create and run Python cells in a notebook."
+- "What is Python."
+- "How to install python."
+- "How to run and quit python."
 keypoints:
 - "Python programs are plain text files."
 - "Use the Jupyter Notebook for editing and running Python."
