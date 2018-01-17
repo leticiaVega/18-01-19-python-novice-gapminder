@@ -6,10 +6,10 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Plotting and Programming in Python"
+title: "Programming in Python"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: leticia.vega@ccadet.unam.mx
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -20,7 +20,8 @@ kind: "lesson"
 
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
-repository: <USERNAME>/<PROJECT>
+# repository: <USERNAME>/<PROJECT>
+repository: leticiavega/18-01-19-python-novice-gapminder
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
@@ -32,7 +33,7 @@ template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
 example_site: "https://swcarpentry.github.com/lesson-example"
 workshop_repo: "https://github.com/swcarpentry/workshop-template"
-workshop_site: "https://swcarpentry.github.io/workshop-template"
+workshop_site: "https://leticiavega.github.io/18-01-19-python-novice-gapminder"
 training_site: "https://swcarpentry.github.io/instructor-training"
 
 # Surveys.
@@ -40,7 +41,7 @@ pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="
 post_survey: "https://www.surveymonkey.com/r/swc_post_workshop_v1?workshop_id="
 
 # Start time in minutes (0 to be clock-independent, 540 to show a start at 09:00 am).
-start_time: 540
+start_time: 600
 
 # Specify that things in the episodes collection should be output.
 collections:
