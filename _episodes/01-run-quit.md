@@ -37,17 +37,11 @@ keypoints:
 *   They have the `.py` extension to let everyone (including the operating system) 
     know it is a Python program.
     *   This is convention, not a requirement.
-*   It's common to write them using a text editor but we are going to use
-    the [Jupyter Notebook][jupyter].
-*   The bit of extra setup is well worth it because the Notebook provides code completion 
-    and other helpful features.
-*   Notebook files have the extension `.ipynb` to distinguish them from plain-text Python programs.
-    *   Can export as "pure Python" to run from the command line.
-
-## Use the Jupyter Notebook for editing and running Python.
-
-*   The [Anaconda package manager][anaconda] is an automated way to install the Jupyter notebook.
-    *   See [the setup instructions]({{ page.root }}/setup/) for Anaconda installation instructions.
+*   It's common to write them using a text or code editor. There are many around, and it is one of the most personal choices a programmer can make - Like a tennis-player choosing their racket. To start off with, you’ll just want a basic, easy-to-use one that doesn’t get in your way, but is still effective at writing python code. Here are some suggestions for those:
+    *   Gedit and Kate: if you run Linux using Gnome or KDE respectively, you might already have one of these two installed!
+    *   Atom: A new code editor available for Windows, Mac and Linux. It’s an open-source project developed by GitHub and is very easy to add functionality for, with its packages system.
+    *   Sublime Text: A great all around editor that’s easy to use. It’s Ctl+B shortcut lets you run the python file you’re working on straight away. Runs on Windows, Mac and Linux.
+    *   NotePad++: 
 *   It also installs all the extra libraries it needs to run.
 *   Once you have installed Python and the Jupyter Notebook requirements, open a shell and type:
 
