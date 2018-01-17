@@ -19,6 +19,17 @@ keypoints:
 ## History
 [Python][python]  was created in the early 1990s by Guido van Rossum at Stichting Mathematisch Centrum (see [CWI]) in the Netherlands as a successor of a language called ABC. Guido remains Python’s principal author, although it includes many contributions from others. Python was named for the BBC TV show Monty Python's Flying Circus.
 
+## Some of Python's notable features:
+
+    *   Is an easy-to-use language that makes it simple to get your program working.
+    *   Runs anywhere, including Mac OS X, Windows, Linux, and Unix, with unofficial builds also available for Android and iOS.
+    *   Is free software in two senses. It doesn't cost anything to download or use Python, or to include it in your application.
+        Python can also be freely modified and re-distributed, because while the language is copyrighted it's available under an 
+	open source license.
+    *   Uses an elegant syntax, making the programs you write easier to read.
+    *   Comes with a large standard library that supports many common programming tasks such as connecting to web servers,
+        searching text with regular expressions, reading and modifying files.
+
 ## Python programs are plain text files.
 
 *   They have the `.py` extension to let everyone (including the operating system) 
