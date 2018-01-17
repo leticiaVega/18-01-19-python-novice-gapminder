@@ -27,6 +27,10 @@ keypoints:
 *   Uses an elegant syntax, making the programs you write easier to read.
 *   Comes with a large standard library that supports many common programming tasks such as connecting to web servers, searching text with regular expressions, reading and modifying files.
 
+## How to install python?
+
+*   Download the most recent stable version. This is the one with the highest number that isn't marked as an alpha or beta release. Please see the [Python downloads][pythonDownload] page for the most up to date versions of Python 2 and Python 3.
+*   
 ## Python programs are plain text files.
 
 *   They have the `.py` extension to let everyone (including the operating system) 
@@ -376,3 +380,4 @@ Or use [named links][data_carpentry].
 [markdown]: https://en.wikipedia.org/wiki/Markdown
 [CWI]: https://www.cwi.nl/
 [python]: https://www.python.org
+[pythonDownload]: https://www.python.org/downloads/
