@@ -30,7 +30,8 @@ keypoints:
 ## How to install python?
 
 *   Download the most recent stable version. This is the one with the highest number that isn't marked as an alpha or beta release. Please see the [Python downloads][pythonDownload] page for the most up to date versions of Python 2 and Python 3.
-*   
+*   In the case of Windows and Mac OS X, run the installer and accept the default installation location. Linux details will vary a bit depending on your Linux flavor.
+
 ## Python programs are plain text files.
 
 *   They have the `.py` extension to let everyone (including the operating system) 
