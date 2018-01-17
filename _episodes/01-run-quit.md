@@ -63,6 +63,9 @@ keypoints:
     ~~~
     {: .python}
 
+### Note
+The prompt `>>>` on the last line indicates that you are now in an interactive Python interpeter session, also called the “Python shell”. This is different from the normal terminal command prompt!
+
 ![Example Jupyter Notebook](../fig/0_jupyter_notebook_example.jpg)  
 *Screenshot of a [Jupyter Notebook on quantum mechanics](https://github.com/jrjohansson/qutip-lectures) by Robert Johansson*
 
