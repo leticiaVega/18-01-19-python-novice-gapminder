@@ -17,7 +17,7 @@ keypoints:
 - "Markdown does most of what HTML does."
 ---
 ## History
-Python was created in the early 1990s by Guido van Rossum at Stichting Mathematisch Centrum (see [CWI]) in the Netherlands as a successor of a language called ABC. Guido remains Python’s principal author, although it includes many contributions from others. Python was named for the BBC TV show Monty Python's Flying Circus.
+[Python][python]  was created in the early 1990s by Guido van Rossum at Stichting Mathematisch Centrum (see [CWI]) in the Netherlands as a successor of a language called ABC. Guido remains Python’s principal author, although it includes many contributions from others. Python was named for the BBC TV show Monty Python's Flying Circus.
 
 ## Python programs are plain text files.
 
@@ -367,3 +367,4 @@ Or use [named links][data_carpentry].
 [jupyter]: http://jupyter.org/
 [markdown]: https://en.wikipedia.org/wiki/Markdown
 [CWI]: https://www.cwi.nl/
+[python]: https://www.python.org
