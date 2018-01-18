@@ -66,6 +66,18 @@ keypoints:
    Note:
    The prompt `>>>` on the last line indicates that you are now in an interactive Python interpeter session, also called the “Python shell”. This is different from the normal terminal command prompt!
 
+## Interacting with python
+
+*   The python program that you have installed will by default act as something called an interpreter. An interpreter takes text commands and runs them as you enter them - very handy for trying things out.
+
+*   You can now enter some code for python to run. Try:
+
+    ~~~
+    >>> 1
+    1
+    ~~~
+    {: .python}
+
 ![Example Jupyter Notebook](../fig/0_jupyter_notebook_example.jpg)  
 *Screenshot of a [Jupyter Notebook on quantum mechanics](https://github.com/jrjohansson/qutip-lectures) by Robert Johansson*
 
