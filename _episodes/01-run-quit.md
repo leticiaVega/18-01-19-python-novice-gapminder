@@ -78,6 +78,18 @@ keypoints:
     ~~~
     {: .python}
 
+*   The interpreter acts as a simple calculator: you can type an expression at it and it will write the value. Expression syntax is straightforward: the operators +, -, * and / work just like in most other languages (for example, Pascal or C); parentheses (()) can be used for grouping. For example:
+
+    ~~~
+    >>> 2 + 2
+    4
+    >>> 50 - 5*6
+    20
+    >>> (50 - 5)*6
+    270
+    ~~~
+    {: .python}
+
 ![Example Jupyter Notebook](../fig/0_jupyter_notebook_example.jpg)  
 *Screenshot of a [Jupyter Notebook on quantum mechanics](https://github.com/jrjohansson/qutip-lectures) by Robert Johansson*
 
