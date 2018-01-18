@@ -68,7 +68,7 @@ keypoints:
 
 ## Interacting with python
 
-*   The python program that you have installed will by default act as something called an interpreter. An interpreter takes text commands and runs them as you enter them - very handy for trying things out.
+*   The python program that you have installed will by default act as something called an *interpreter*. An interpreter takes text commands and runs them as you enter them - very handy for trying things out.
 
 *   You can now enter some code for python to run. Try:
 
@@ -90,21 +90,9 @@ keypoints:
     ~~~
     {: .python}
 
-![Example Jupyter Notebook](../fig/0_jupyter_notebook_example.jpg)  
-*Screenshot of a [Jupyter Notebook on quantum mechanics](https://github.com/jrjohansson/qutip-lectures) by Robert Johansson*
+## Quitting python.
 
-> ## How It's Stored
->
-> *   The notebook file is stored in a format called JSON.
-> *   Just like a webpage, what's saved looks different from what you see in your browser.
-> *   But this format allows Jupyter to mix software (in several languages) with documentation 
-      and graphics, all in one file.
-{: .callout}
-
-## The Notebook has Command and Edit modes.
-
-*   Open a new notebook from the dropdown menu (that says 'New') in the top right corner of the file browser page.
-*   Each notebook contains one or more cells that contain code, text, or images.
+*   To leave the interactive shell and go back to the console (the system shell), press Ctrl-d and then Enter on Windows, or Ctrl-D on OS X or Linux. Alternatively, you could also run the python command exit()!
 
 > ## Code vs. Text
 >
