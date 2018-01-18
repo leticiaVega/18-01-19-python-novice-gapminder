@@ -92,7 +92,13 @@ keypoints:
 
 ## Quitting python.
 
-*   To leave the interactive shell and go back to the console (the system shell), press Ctrl-d and then Enter on Windows, or Ctrl-D on OS X or Linux. Alternatively, you could also run the python command exit()!
+*   To leave the interactive shell and go back to the console (the system shell), press Ctrl-Z and then Enter on Windows, or Ctrl-D on OS X or Linux. Alternatively, you could also run the python command exit()!
+
+    ~~~
+    >>> exit()
+    $
+    ~~~
+    {: .python}
 
 > ## Code vs. Text
 >
