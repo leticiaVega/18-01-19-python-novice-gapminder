@@ -10,11 +10,9 @@ objectives:
 - "How to run and quit python."
 keypoints:
 - "Python programs are plain text files."
-- "Use the Jupyter Notebook for editing and running Python."
-- "The Notebook has Command and Edit modes."
-- "Use the keyboard and mouse to select and edit cells."
-- "The Notebook will turn Markdown into pretty-printed documentation."
-- "Markdown does most of what HTML does."
+- "Use a code editor for editing and running Python."
+- "To start python program, open a shell and type: python."
+- "To quit python program, type Ctrl-Z on Windows, or Ctrl-D on OS X or Linux."
 ---
 ## History
 [Python][python]  was created in the early 1990s by Guido van Rossum at Stichting Mathematisch Centrum (see [CWI]) in the Netherlands as a successor of a language called ABC. Guido remains Python’s principal author, although it includes many contributions from others. Python was named for the BBC TV show Monty Python's Flying Circus.
@@ -38,7 +36,7 @@ keypoints:
     know it is a Python program.
     *   This is convention, not a requirement.
 *   It's common to write them using a text or code editor.
-*   There are many around, and it is one of the most personal choices a programmer can make - Like a tennis-player choosing their racket. To start off with, you’ll just want a basic, easy-to-use one that doesn’t get in your way, but is still effective at writing python code. Here are some suggestions for those:
+*   There are many editors around, and it is one of the most personal choices a programmer can make - Like a tennis-player choosing their racket. To start off with, you’ll just want a basic, easy-to-use one that doesn’t get in your way, but is still effective at writing python code. Here are some suggestions for those:
 
     *   [Gedit][geditEditor] and [Kate][kateEditor]: if you run Linux using Gnome or KDE respectively, you might already have one of these two installed!
     *   [Atom][atomEditor]: A new code editor available for Windows, Mac and Linux. It’s an open-source project developed by GitHub and is very easy to add functionality for, with its packages system.
@@ -92,7 +90,7 @@ keypoints:
 
 ## Quitting python.
 
-*   To leave the interactive shell and go back to the console (the system shell), press Ctrl-Z and then Enter on Windows, or Ctrl-D on OS X or Linux. Alternatively, you could also run the python command exit()!
+*   To leave the interactive shell and go back to the console (the system shell), press Ctrl-Z on Windows, or Ctrl-D on OS X or Linux. Alternatively, you could also run the python command exit()!
 
     ~~~
     >>> exit()
