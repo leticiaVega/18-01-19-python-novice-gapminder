@@ -12,7 +12,7 @@ keypoints:
 - "Python programs are plain text files."
 - "Use a code editor for editing and running Python."
 - "To start python program, open a shell and type: python."
-- "To quit python program, type Ctrl-Z on Windows, or Ctrl-D on OS X or Linux."
+- "To quit python program, type `Ctrl-Z` on Windows, or `Ctrl-D` on OS X or Linux."
 ---
 ## History
 [Python][python]  was created in the early 1990s by Guido van Rossum at Stichting Mathematisch Centrum (see [CWI]) in the Netherlands as a successor of a language called ABC. Guido remains Python’s principal author, although it includes many contributions from others. Python was named for the BBC TV show Monty Python's Flying Circus.
@@ -90,7 +90,7 @@ keypoints:
 
 ## Quitting python.
 
-*   To leave the interactive shell and go back to the console (the system shell), press Ctrl-Z on Windows, or Ctrl-D on OS X or Linux. Alternatively, you could also run the python command exit()!
+*   To leave the interactive shell and go back to the console (the system shell), press `Ctrl-Z` on Windows, or `Ctrl-D` on OS X or Linux. Alternatively, you could also run the python command `exit()`.
 
     ~~~
     >>> exit()
